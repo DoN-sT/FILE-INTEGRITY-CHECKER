@@ -25,3 +25,7 @@ Check File Integrity: Compares the original hash of a file with its current hash
 This can help to ensure that the file is not affected by anyone during the trasfermation and it will help make the checking process much esiar .
 
 referal credits go's to youtube , meta bot, copilot,and some other websites to lear abote the hash libirary
+
+***** OUTPUT *****
+
+![Image](https://github.com/user-attachments/assets/28a24f7f-bb93-416e-bb9d-01eef5671612)
